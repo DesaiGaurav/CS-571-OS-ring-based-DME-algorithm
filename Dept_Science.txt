@@ -1,0 +1,6 @@
+FirstTokenGeneration=false
+DepartmentName=Science Department
+ScheduleFileLocation=G:/Schedule.txt
+CurrentNode=4005
+NextNode=4001
+PreviousNode=4004

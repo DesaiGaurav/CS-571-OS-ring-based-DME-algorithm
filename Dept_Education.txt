@@ -1,0 +1,6 @@
+FirstTokenGeneration=false
+DepartmentName=Education Department
+ScheduleFileLocation=G:/Schedule.txt
+CurrentNode=4002
+NextNode=4003
+PreviousNode=4001

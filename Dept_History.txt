@@ -1,0 +1,6 @@
+FirstTokenGeneration=false
+DepartmentName=History Department
+ScheduleFileLocation=G:/Schedule.txt
+CurrentNode=4004
+NextNode=4005
+PreviousNode=4003

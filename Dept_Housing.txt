@@ -1,0 +1,6 @@
+FirstTokenGeneration=true
+DepartmentName=Housing Department
+ScheduleFileLocation=G:/Schedule.txt
+CurrentNode=4001
+NextNode=4002
+PreviousNode=4005
